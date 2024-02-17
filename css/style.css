@@ -1,0 +1,28 @@
+/*font:*/
+@import url(<link href=https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap rel=stylesheet>);
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/btn.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+ 	background-color: #F8DFD4;
+	font-family: 'libre Baskerville', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: times, sans-serif;
+	font-weight: bold;
+
+}
+
+h3{color: #561C24;}
+
+p{
+	font-weight: lighter;
+	font-size: 16px;
+}
